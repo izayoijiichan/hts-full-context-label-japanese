@@ -1,0 +1,27 @@
+{
+  "name": "com.izayoi.hts.fullcontextlabel.japanese",
+  "displayName": "HTS-style full-context label in japanese",
+  "description": "HTS-style full-context label serialiser and deserializer",
+  "version": "1.0.0",
+  "type": "tool",
+  "category": "",
+  "keywords": [
+    "hts-style",
+    "full-context-label",
+    "japanese-language",
+    "jlabel",
+    "openjtalk",
+    "unity",
+    "unity3d",
+    "unity3d-plugin"
+  ],
+  "unity": "2021.3",
+  "author": {
+    "name" : "Izayoi Jiichan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izayoijiichan/hts-full-context-label-japanese.git"
+  },
+  "dependencies": {}
+}

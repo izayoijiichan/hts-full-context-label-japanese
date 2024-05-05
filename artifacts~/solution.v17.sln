@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Izayoi.Hts.FullContextLabel.Japanese", "../Runtime\Izayoi.Hts.FullContextLabel.Japanese.csproj", "{2DF41D8C-A077-4426-B6E1-15F28DE8178F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DF41D8C-A077-4426-B6E1-15F28DE8178F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF41D8C-A077-4426-B6E1-15F28DE8178F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF41D8C-A077-4426-B6E1-15F28DE8178F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2DF41D8C-A077-4426-B6E1-15F28DE8178F}.Debug|x64.Build.0 = Debug|Any CPU
+		{2DF41D8C-A077-4426-B6E1-15F28DE8178F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2DF41D8C-A077-4426-B6E1-15F28DE8178F}.Debug|x86.Build.0 = Debug|Any CPU
+		{2DF41D8C-A077-4426-B6E1-15F28DE8178F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF41D8C-A077-4426-B6E1-15F28DE8178F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DF41D8C-A077-4426-B6E1-15F28DE8178F}.Release|x64.ActiveCfg = Release|Any CPU
+		{2DF41D8C-A077-4426-B6E1-15F28DE8178F}.Release|x64.Build.0 = Release|Any CPU
+		{2DF41D8C-A077-4426-B6E1-15F28DE8178F}.Release|x86.ActiveCfg = Release|Any CPU
+		{2DF41D8C-A077-4426-B6E1-15F28DE8178F}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {		SolutionGuid = {1561771F-C437-4BED-8489-75D6ECF129FC}
+}
+	EndGlobalSection
+EndGlobal
